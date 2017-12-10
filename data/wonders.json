@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Louvre Museum",
+        "description": "The Louvre or the Louvre Museum is the world's largest art museum and a historic monument in Paris, France. A central landmark of the city, it is located on the Right Bank of the Seine in the city's 1st arrondissement."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.3321163654327393,
+              48.863670189262415
+            ],
+            [
+              2.33009934425354,
+              48.86095278694369
+            ],
+            [
+              2.3369979858398438,
+              48.859576384025154
+            ],
+            [
+              2.340087890625,
+              48.85923757134769
+            ],
+            [
+              2.3404312133789062,
+              48.860931611800844
+            ],
+            [
+              2.3321163654327393,
+              48.863670189262415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Great Pyramid of Giza",
+        "description": "The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering what is now El Giza, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.133086681365967,
+              29.97817098577395
+            ],
+            [
+              31.135361194610596,
+              29.97817098577395
+            ],
+            [
+              31.135361194610596,
+              29.98014118562271
+            ],
+            [
+              31.133086681365967,
+              29.98014118562271
+            ],
+            [
+              31.133086681365967,
+              29.97817098577395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jerusalem",
+        "description": "Jerusalem, a Middle Eastern city west of the Dead Sea, has been a place of pilgrimage and worship for Jews, Christians and Muslims since the biblical era. Its Old City has significant religious sites around the Temple Mount compound, including the Western Wall (sacred to Judaism), the Church of the Holy Sepulchre (a Christian pilgrimage site) and the Dome of the Rock (a 7th-century Islamic shrine with a gold dome)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22010803222656,
+          31.775315417667905
+        ]
+      }
+    }
+  ]
+}
