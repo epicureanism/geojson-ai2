@@ -86,6 +86,74 @@
           31.775315417667905
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Military Demarcation Line",
+        "description": "The Military Demarcation Line (MDL), sometimes referred to as the Armistice Line, is the land border or demarcation line between North Korea and South Korea. On either side of the line is the Korean Demilitarized Zone (DMZ). The MDL and DMZ were established by the Armistice at the end of the Korean War in 1953."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.41693115234374,
+            37.844494798834575
+          ],
+          [
+            126.58721923828124,
+            37.763115548102924
+          ],
+          [
+            126.65451049804688,
+            37.78808138412046
+          ],
+          [
+            126.69021606445312,
+            37.84883250647402
+          ],
+          [
+            126.66824340820314,
+            37.9593578107923
+          ],
+          [
+            126.78085327148438,
+            37.98642201062662
+          ],
+          [
+            126.85363769531249,
+            38.04052046968823
+          ],
+          [
+            126.87698364257812,
+            38.10646650598286
+          ],
+          [
+            126.9580078125,
+            38.13455657705411
+          ],
+          [
+            127.01980590820312,
+            38.245730236135316
+          ],
+          [
+            127.09808349609375,
+            38.281852079168004
+          ],
+          [
+            127.408447265625,
+            38.34165619279595
+          ],
+          [
+            128.1005859375,
+            38.33303882235456
+          ],
+          [
+            128.34228515625,
+            38.41055825094609
+          ]
+        ]
+      }
     }
   ]
 }
